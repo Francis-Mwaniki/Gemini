@@ -1,6 +1,6 @@
 ### SAMPLE
 
-#### propmt
+#### prompt
 
  Write a story about a magic backpack.
 
